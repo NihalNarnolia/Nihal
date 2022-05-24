@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=your-github-nishan-iicm&label=PROFILE+VIEWS" alt="Nihal" />    
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=your-github-NihalNarnolia&label=PROFILE+VIEWS" alt="Nihal" />    
 <br>
 
 
@@ -6,10 +6,10 @@
 
 
 
-<img  align='right' src="https://github.com/NihalNarnolia/Nihal/blob/main/comp.gif" width="530" height="420">
+<img  align='right' src="https://github.com/nishan-iicm/Nishan-Agarwal/blob/main/comp.gif" width="530" height="420">
 <br>
 
-🎓 - I am a Final year Computer Science Undergraduate Student and my drive to develop is ignited by my passion to solve problems with technology.
+🎓 - I am a  Computer Science graduate Student and my drive to develop is ignited by my passion to solve problems with technology.
 <br>
 🌻 - I am interested in Full Stack Development and how it is shaping the global economy. 
 <br>
