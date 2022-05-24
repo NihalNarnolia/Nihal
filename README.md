@@ -1,12 +1,12 @@
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=your-github-nishan-iicm&label=PROFILE+VIEWS" alt="nishan" />    
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=your-github-nishan-iicm&label=PROFILE+VIEWS" alt="Nihal" />    
 <br>
 
 
-<h1> { Hey There! I'm Nishan  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> }</h2>
+<h1> { Hey There! I'm Nihal  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> }</h2>
 
 
 
-<img  align='right' src="https://github.com/nishan-iicm/Nishan-Agarwal/blob/main/comp.gif" width="530" height="420">
+<img  align='right' src="https://github.com/NihalNarnolia/Nihal/blob/main/comp.gif" width="530" height="420">
 <br>
 
 🎓 - I am a Final year Computer Science Undergraduate Student and my drive to develop is ignited by my passion to solve problems with technology.
